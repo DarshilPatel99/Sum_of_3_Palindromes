@@ -30,4 +30,4 @@ The [Reserch Paper](https://arxiv.org/abs/1602.06208) by *Javier Cilleruelo*, *F
   - Here, all lists's elements are digits of that number
   
 ### Contact details
-Please contact me on *patel.darshil.454@ldce.ac.in* regarding any issues and/or suggestions
+Please contact me on *div.mul.add.sub@gmail.com* regarding any issues and/or suggestions
